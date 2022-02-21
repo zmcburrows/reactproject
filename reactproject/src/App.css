@@ -1,3 +1,89 @@
-body {
-  text-align: center;
+.snippet {
+  color: rgb(218, 220, 221);
 }
+.App {
+background-color: #6D597A;
+color: aliceblue;
+}
+.results {
+  color: aliceblue;
+  text-align: center;
+  font-size: 25px;
+}
+.resultBox {
+  background-color: #B56576;
+  text-align: center;
+  padding-top: 10px;
+}
+.randomTopicBox {
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+}
+.header {
+  text-align: center;
+  background-image: linear-gradient(#EAAC8B, #6D597A 65%);
+}
+.logo {
+padding: 30px;
+padding-bottom: 0px;
+  display: flex;
+  justify-content: center;
+}
+.wikipediaTitle{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+}
+.Select {
+  display: flex;
+  justify-content: center;
+}
+.randomGenerate {
+  padding-top: 10px;
+}
+.instructions {
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+}
+.pages{
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+  padding-bottom: 30px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.Link:hover {
+  color: #355070
+}
+Button:hover {
+  background-color: #355070
+}
+.textBox{
+  padding: 10px;
+}
+.tagLine{
+  font-size: 30px;
+  text-align: center;
+  padding: 30px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(217, 226, 233);
+}
+.homeInstructions{
+  font-size: 30px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.availableApp {
+  display: flex;
+  justify-content: center;
+  padding: 70px;
+}
+.homeApp {
+  border: solid 30px #6D597A;
+}
+
