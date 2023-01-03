@@ -1,4 +1,5 @@
 // @ts-check
+import React from 'react'
 import './App.css';
 import { Routes, Route, Link } from "react-router-dom";
 import { Heading, Box } from "@chakra-ui/react";
